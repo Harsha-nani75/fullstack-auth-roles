@@ -20,7 +20,7 @@ A complete user authentication system with role-based access using React, Node.j
 ```
 
 fullstack-auth/
-├── client/       # React Frontend
+├── UI/       # React Frontend
 ├── server/       # Node.js Backend
 └── README.md
 
@@ -61,7 +61,7 @@ node server.js
 ## 💻 Frontend Setup
 
 ```bash
-cd client
+cd UI
 npm install
 npm start
 ```
